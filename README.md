@@ -1,2 +1,1 @@
-# Python-summer-swing-project
-using python
+# Summer-Swing-Ninja
